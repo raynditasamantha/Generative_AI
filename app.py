@@ -6,7 +6,7 @@ import os
 
 # --- KONFIGURASI ---
 # API Key Google Gemini 
-API_KEY = "AIzaSyCZyBx4Z10PDTAZ6TCGmf5TzLKBGB_uMnk"
+API_KEY = "API_KEY"
 
 st.set_page_config(page_title="AI Data Analyst (REST API)", layout="wide")
 st.title("🤖 Asisten Analisis Data")
